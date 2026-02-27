@@ -1,0 +1,201 @@
+dish,restaurant,price_in_swiggy,price_in_zomato
+Burger,SpiceKitchen,165,154
+Pizza,SpiceKitchen,294,312
+Pizza,TastyCorner,140,128
+Pasta,TastyCorner,258,250
+Fried Rice,FoodFactory,99,108
+Sandwich,SpiceKitchen,405,404
+Sandwich,SpiceKitchen,95,110
+Sandwich,FoodHub,227,230
+Biryani,RoyalTaste,126,148
+Pasta,RoyalTaste,109,116
+Sandwich,TastyCorner,367,367
+Biryani,FoodFactory,360,351
+Pizza,FoodHub,176,203
+Pasta,FoodHub,297,296
+Biryani,FoodFactory,174,171
+Fried Rice,FoodHub,257,277
+Pasta,TastyCorner,377,373
+Sandwich,TastyCorner,364,365
+Burger,SpiceKitchen,332,329
+Pizza,FoodFactory,155,141
+Fried Rice,FoodFactory,305,295
+Sandwich,FoodFactory,361,336
+Pasta,UrbanBites,199,173
+Burger,FoodHub,201,192
+Pizza,UrbanBites,193,231
+Burger,TastyCorner,355,360
+Sandwich,FoodFactory,247,254
+Pizza,FoodHub,378,396
+Fried Rice,RoyalTaste,160,173
+Pizza,SpiceKitchen,259,258
+Burger,FoodFactory,212,227
+Sandwich,FoodHub,272,274
+Pasta,UrbanBites,303,284
+Biryani,FoodFactory,250,270
+Biryani,RoyalTaste,204,193
+Burger,SpiceKitchen,317,320
+Pasta,TastyCorner,122,123
+Biryani,FoodFactory,146,135
+Pasta,SpiceKitchen,334,351
+Biryani,UrbanBites,96,106
+Pasta,FoodFactory,248,256
+Pizza,RoyalTaste,255,259
+Sandwich,UrbanBites,377,383
+Pizza,FoodFactory,114,133
+Sandwich,FoodHub,370,402
+Pizza,FoodFactory,199,200
+Burger,UrbanBites,152,144
+Fried Rice,RoyalTaste,317,305
+Biryani,TastyCorner,206,168
+Pasta,RoyalTaste,388,395
+Pizza,UrbanBites,248,261
+Burger,UrbanBites,389,399
+Biryani,TastyCorner,205,199
+Burger,FoodFactory,328,345
+Fried Rice,FoodFactory,234,240
+Burger,UrbanBites,269,287
+Burger,UrbanBites,257,241
+Sandwich,UrbanBites,366,330
+Fried Rice,TastyCorner,162,171
+Pizza,UrbanBites,269,277
+Burger,FoodHub,128,130
+Pasta,SpiceKitchen,334,349
+Pizza,UrbanBites,346,333
+Pasta,FoodFactory,131,140
+Pasta,TastyCorner,296,289
+Biryani,UrbanBites,156,177
+Fried Rice,UrbanBites,174,157
+Burger,RoyalTaste,231,249
+Sandwich,UrbanBites,201,195
+Sandwich,TastyCorner,379,409
+Pasta,UrbanBites,308,317
+Pizza,RoyalTaste,368,339
+Biryani,FoodHub,255,280
+Sandwich,UrbanBites,250,247
+Burger,UrbanBites,208,204
+Pizza,FoodFactory,295,278
+Pasta,TastyCorner,237,224
+Burger,SpiceKitchen,266,265
+Biryani,FoodFactory,317,295
+Sandwich,UrbanBites,392,368
+Burger,RoyalTaste,143,134
+Sandwich,SpiceKitchen,214,213
+Sandwich,FoodHub,201,198
+Biryani,FoodHub,124,100
+Sandwich,UrbanBites,352,337
+Pasta,UrbanBites,264,254
+Pizza,FoodHub,300,312
+Pizza,UrbanBites,178,174
+Sandwich,SpiceKitchen,363,382
+Biryani,RoyalTaste,178,186
+Sandwich,FoodHub,351,346
+Biryani,UrbanBites,179,179
+Burger,RoyalTaste,114,120
+Pasta,FoodFactory,273,270
+Pasta,FoodFactory,370,336
+Pasta,UrbanBites,334,298
+Burger,TastyCorner,393,379
+Sandwich,UrbanBites,321,324
+Biryani,UrbanBites,388,396
+Biryani,RoyalTaste,193,210
+Biryani,TastyCorner,178,176
+Biryani,RoyalTaste,310,324
+Burger,FoodFactory,300,286
+Pasta,RoyalTaste,189,189
+Pizza,FoodHub,274,248
+Pizza,FoodFactory,109,106
+Pasta,RoyalTaste,323,310
+Pasta,TastyCorner,323,324
+Biryani,TastyCorner,146,150
+Pasta,FoodHub,252,257
+Pasta,TastyCorner,380,383
+Burger,TastyCorner,137,165
+Sandwich,FoodHub,354,364
+Pizza,UrbanBites,263,280
+Biryani,RoyalTaste,185,180
+Sandwich,FoodFactory,111,146
+Sandwich,SpiceKitchen,262,277
+Sandwich,TastyCorner,250,255
+Biryani,TastyCorner,286,247
+Pizza,TastyCorner,224,229
+Burger,SpiceKitchen,86,117
+Burger,SpiceKitchen,217,236
+Sandwich,RoyalTaste,223,248
+Pasta,SpiceKitchen,120,125
+Burger,FoodHub,325,315
+Sandwich,UrbanBites,381,388
+Pasta,RoyalTaste,167,187
+Burger,FoodFactory,268,295
+Sandwich,SpiceKitchen,213,219
+Pasta,RoyalTaste,342,341
+Burger,RoyalTaste,310,318
+Pasta,UrbanBites,341,354
+Biryani,FoodFactory,215,229
+Pasta,TastyCorner,233,225
+Biryani,FoodFactory,114,96
+Pizza,FoodFactory,313,305
+Sandwich,SpiceKitchen,270,272
+Pizza,TastyCorner,358,340
+Pasta,SpiceKitchen,336,325
+Biryani,FoodFactory,157,131
+Biryani,SpiceKitchen,119,112
+Pizza,FoodHub,345,341
+Fried Rice,TastyCorner,385,378
+Pasta,RoyalTaste,235,231
+Pizza,FoodHub,283,299
+Burger,UrbanBites,349,355
+Pasta,UrbanBites,380,377
+Burger,FoodFactory,364,384
+Fried Rice,UrbanBites,129,135
+Sandwich,UrbanBites,174,192
+Burger,SpiceKitchen,208,192
+Sandwich,TastyCorner,137,134
+Sandwich,UrbanBites,239,258
+Sandwich,FoodHub,387,354
+Sandwich,UrbanBites,108,130
+Sandwich,FoodHub,202,192
+Burger,FoodFactory,405,405
+Pasta,SpiceKitchen,315,315
+Sandwich,FoodFactory,326,336
+Burger,RoyalTaste,291,286
+Fried Rice,TastyCorner,367,351
+Biryani,TastyCorner,351,356
+Fried Rice,UrbanBites,252,249
+Biryani,UrbanBites,332,345
+Burger,FoodFactory,325,336
+Burger,FoodFactory,286,284
+Biryani,SpiceKitchen,236,242
+Fried Rice,FoodHub,360,384
+Pasta,RoyalTaste,136,158
+Pasta,FoodFactory,363,396
+Pasta,FoodHub,123,119
+Burger,FoodFactory,293,264
+Biryani,UrbanBites,223,223
+Sandwich,FoodHub,383,383
+Pizza,SpiceKitchen,416,396
+Fried Rice,FoodFactory,93,113
+Biryani,RoyalTaste,217,234
+Burger,RoyalTaste,336,347
+Burger,RoyalTaste,328,327
+Pasta,SpiceKitchen,370,343
+Fried Rice,TastyCorner,114,102
+Fried Rice,SpiceKitchen,295,315
+Pizza,TastyCorner,207,215
+Pasta,FoodHub,174,172
+Burger,SpiceKitchen,189,211
+Fried Rice,UrbanBites,348,348
+Fried Rice,TastyCorner,276,272
+Biryani,UrbanBites,374,375
+Burger,FoodFactory,340,349
+Biryani,FoodFactory,109,122
+Fried Rice,RoyalTaste,168,166
+Fried Rice,UrbanBites,215,225
+Burger,TastyCorner,341,338
+Fried Rice,RoyalTaste,270,282
+Fried Rice,FoodHub,123,119
+Pasta,TastyCorner,149,169
+Pizza,SpiceKitchen,388,354
+Pasta,RoyalTaste,204,198
+Pizza,UrbanBites,251,255
+Sandwich,UrbanBites,209,241
